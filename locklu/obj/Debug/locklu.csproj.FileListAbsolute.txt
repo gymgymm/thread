@@ -1,0 +1,7 @@
+C:\Users\melik\Desktop\isletimsistemleri\locklu\bin\Debug\locklu.exe.config
+C:\Users\melik\Desktop\isletimsistemleri\locklu\bin\Debug\locklu.exe
+C:\Users\melik\Desktop\isletimsistemleri\locklu\bin\Debug\locklu.pdb
+C:\Users\melik\Desktop\isletimsistemleri\locklu\obj\Debug\locklu.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\isletimsistemleri\locklu\obj\Debug\locklu.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\isletimsistemleri\locklu\obj\Debug\locklu.exe
+C:\Users\melik\Desktop\isletimsistemleri\locklu\obj\Debug\locklu.pdb
