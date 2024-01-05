@@ -1,0 +1,14 @@
+C:\Users\melik\Desktop\locksuz\bin\Debug\locksuz.exe.config
+C:\Users\melik\Desktop\locksuz\bin\Debug\locksuz.exe
+C:\Users\melik\Desktop\locksuz\bin\Debug\locksuz.pdb
+C:\Users\melik\Desktop\locksuz\obj\Debug\locksuz.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\locksuz\obj\Debug\locksuz.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\locksuz\obj\Debug\locksuz.exe
+C:\Users\melik\Desktop\locksuz\obj\Debug\locksuz.pdb
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\bin\Debug\locksuz.exe.config
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\bin\Debug\locksuz.exe
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\bin\Debug\locksuz.pdb
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\obj\Debug\locksuz.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\obj\Debug\locksuz.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\obj\Debug\locksuz.exe
+C:\Users\melik\Desktop\isletimsistemleri\locksuz\obj\Debug\locksuz.pdb
